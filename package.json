@@ -1,7 +1,7 @@
 {
   "name": "winston-postgres-transport",
   "description": "A Winston transport for PostgreSQL.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "keywords": [
     "logging",
     "postgres",
@@ -20,11 +20,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ofkindness/winston-postgres-transport.git"
+    "url": "https://github.com/damonridenow/winston-postgres-transport.git"
   },
-  "homepage": "https://github.com/ofkindness/winston-postgres-transport",
+  "homepage": "https://github.com/damonridenow/winston-postgres-transport",
   "bugs": {
-    "url": "https://github.com/ofkindness/winston-postgres-transport/issues"
+    "url": "https://github.com/damonridenow/winston-postgres-transport/issues"
   },
   "main": "lib/winston-postgres-transport.js",
   "dependencies": {
